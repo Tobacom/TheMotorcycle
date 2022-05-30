@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/Sc\xE9ny/Ending.unity"
     guid: 284f93444c833394d92d4905d2e2c731
+  - enabled: 1
+    path: "Assets/Sc\xE9ny/HraM.unity"
+    guid: 9fbbd6ecac6058f40bfdc7d27a439fd4
   m_configObjects: {}
